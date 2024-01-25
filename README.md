@@ -1,0 +1,1 @@
+Page that contains a field full of warships for Sea Battle game. Ships were placed on the field using CSS Grid-box.    
